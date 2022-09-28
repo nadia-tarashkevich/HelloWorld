@@ -1,6 +1,8 @@
+import com.b.Class1;
+
 import java.io.IOException;
 
-
+import java.io.
 
 public class Main {
     private static boolean createSparseFile(String filePath, Long fileSize) {
@@ -20,8 +22,9 @@ public class Main {
         return success;
     }
     public static void main(String[] args) {
-        createSparseFile("long.txt", 2000000L);
-        var a = 10;
+        System.out.println("å ä ö");
     }
+
+    public Page<Class1>
 
 }
