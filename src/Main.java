@@ -10,7 +10,7 @@ public class Main {
         Process p;
         try {
             p = Runtime.getRuntime().exec(formmatedCommand);
-
+            ㄴㅐㅡㄷ
             p.waitFor();
             p.destroy();
         } catch (IOException | InterruptedException e) {
