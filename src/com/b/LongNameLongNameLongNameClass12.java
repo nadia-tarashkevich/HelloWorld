@@ -1,5 +1,5 @@
 package com.b;
-class Class1 {
+class LongNameLongNameLongNameClass12 {
     public static void doNothing(){
         return;
         // new comment

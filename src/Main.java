@@ -25,6 +25,8 @@ public class Main {
         System.out.println("å ä ö");
     }
 
-    public Page<Class1>
+    public List<Class> fun1(){
+
+    }
 
 }
